@@ -40,7 +40,7 @@ CREATE TABLE `CART` (
 --
 
 INSERT INTO `CART` (`EMAIL`, `PRODID`, `CQUANTITY`, `DATE`) VALUES
-('unregistered@clofident.com', 'pasir3', '1', '2021-01-30 12:28:44');
+('unregistered@meow.com', 'pasir3', '1', '2021-01-30 12:28:44');
 
 -- --------------------------------------------------------
 
